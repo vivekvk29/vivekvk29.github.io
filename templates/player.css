@@ -1,0 +1,84 @@
+
+
+
+.main{
+	padding: 0px;
+	margin:0px;
+	background-image: url("pl.jpg");
+
+	background-attachment: fixed;
+		background-size: 100%;	
+	color:white;
+
+	width: 100%;
+	height: 100%;
+}
+body{
+
+	background-color:#0f0f0f; 
+}
+
+h2
+{
+	color: white;
+}
+
+#playerbasic table
+{
+	border:1px grey solid !important;
+	color: white;
+	background-color: rgba(0,0,0,0.65);
+	max-width: 950px;
+}
+#playerbasic td
+{
+	padding: 10px;
+	border: 1px grey solid !important;
+	background-color: rgba(0,0,0,0.65);
+	max-width: 950px;
+}
+
+#playerbats table
+{
+	border:5px white solid !important;
+	color: white;
+	background-color: rgba(0,0,0,0.65);
+}
+#playerbowls table
+{
+	border:5px white solid !important;
+	color: white;
+	background-color: rgba(0,0,0,.65);
+}
+#playerbats td
+{
+	padding: 10px;
+	border: 2px white solid;
+	width:50px;
+	background-color: rgba(0,0,0,0.65);
+}	
+#playerbowls td
+{
+	padding: 10px;
+	border: 2px white solid;
+	background-color: rgba(0,0,0,0.65);	
+	width:50px;
+	color: white;
+}
+th{
+	border:2px white solid;
+}
+#teams table
+{
+	border:5px grey solid!important;
+	color: white;
+	background-color: rgba(0,0,0,.65)
+	max-width: 950px;
+}
+#teams td
+{
+	padding: 10px;
+	border: 2px grey solid!important;
+	background-color: rgba(0,0,0,.65);
+	max-width: 950px;
+}

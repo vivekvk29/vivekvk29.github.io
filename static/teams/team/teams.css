@@ -1,0 +1,67 @@
+
+#header h1{
+	color: black !important;
+	font-weight: bold;
+}
+
+#main{
+	width: 100%;
+
+}
+#menu{
+	background-color: rgba(0,0,0,0.5)!important;
+}
+#header{
+	width:90%;
+	
+
+}
+#header h1{
+
+	font-size: 90px;
+	margin: 50px 60px;
+	color: white;
+	margin-left: 43%;
+}
+#desc{
+		background-color:rgba(0,0,0,0.5);
+
+}
+.players{
+	width: 1px;
+	height: 1px;
+	border: 1px solid rgba(77, 77, 51,0.2);
+	border-radius: 20px;
+	display:none;
+}
+
+
+#mj{
+	background-color: rgba(77, 77, 51,0.1);
+	color:white;
+	font-weight: 10px;
+		text-align: center;
+}
+#mj i ,#mj h1{
+padding-top: 30px;
+margin-top:px; 
+font-size: 30px;
+}
+
+#demo p{
+	color: #fff;
+}
+#loading{
+max-width: 300px;
+	max-height: 168px;
+	margin: 50px 24%;
+margin-left: 45%;
+	border-radius: 50px;
+}
+button{
+	background-color: #0f0f0f !important;
+	border:none !important;
+}
+.btn{
+	background-color:orange!important; 
+}
